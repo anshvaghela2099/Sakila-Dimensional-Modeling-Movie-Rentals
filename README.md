@@ -41,7 +41,7 @@ The **Fact_Rental** table contains transactional data about movie rentals, with 
 
 ### **Dimension Tables**  
 
-#### ** Dim_Date** (Fixed Dimension)  
+#### **Dim_Date** (Fixed Dimension)  
 Stores date-based attributes for easy time-series analysis.
 
 | Column Name | Type | Description |
@@ -125,11 +125,11 @@ Stores store-related details.
 
 ---
 
-## 📌 **Key Learnings**
-✔ **Dimensional modeling optimizes analytical queries**.  
-✔ **SCD Type 2 helps maintain historical data**.  
-✔ **Surrogate keys improve performance over natural keys**.  
-✔ **Denormalization increases query efficiency in OLAP systems**.  
+## **Key Learnings**
+**Dimensional modeling optimizes analytical queries**.  
+**SCD Type 2 helps maintain historical data**.  
+**Surrogate keys improve performance over natural keys**.  
+**Denormalization increases query efficiency in OLAP systems**.  
 
 ---
 
